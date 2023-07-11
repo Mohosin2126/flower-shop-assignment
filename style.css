@@ -128,11 +128,23 @@ line-height: 35px;
 text-decoration-line: underline;
 }
 .services{
-    width: 1440px;
-height: 320px;
-margin:auto;
-padding:30px;
-border-radius: 8px;
-background: rgba(39, 39, 39, 0.05);
-
+height: 320px; 
+width: 1350px;
+display:flex;
+align-items: center;
+justify-content:space-around ;
+margin-top: 100px;
+   margin-right: 75px;
+    margin-left:75px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.2);
+    
+}
+.service-description{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-weight:100px;
+line-height: 35px;
 }
