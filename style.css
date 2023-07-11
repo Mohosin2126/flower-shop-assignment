@@ -1,7 +1,7 @@
-/* /* *{
-    margin: 0;
-    padding:0;
-}
+*{ margin: 0;
+    padding:0;}
+   
+
 /* header */
  header{
     background-color:rgba(170, 23, 55, 0.1);
@@ -25,9 +25,7 @@ height: 800px;
     font-weight: 800;
 
 }
-.for-title{
 
-}
 .title-description{
     color: rgba(39, 39, 39, 0.60);
 font-family: Lato;
@@ -247,3 +245,49 @@ line-height: 30px;
     border-radius: 8px;
 background: #FFF; 
 }
+.button{
+ background-color: #E55473;
+ color: white;
+ border-radius: 8px;
+ background: #E55473;
+}
+.flowershop{
+     margin-top: 80px;
+width: 1500px;
+height: 449px;
+background: #111010;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.flowerspan{
+ color: #E55473;;
+}
+.flowerdes{
+    margin-top: 20px;
+    width: 625px;
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.flowertitle{
+    color:#ffffff;
+font-family: Lato;
+text-align: center;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+ .copyrights{
+    margin-top: 20px;
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+
+ }
