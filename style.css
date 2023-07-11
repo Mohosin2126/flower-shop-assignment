@@ -213,7 +213,7 @@ list-style:none;
     display:flex;
     width: 1300px;
     height: 449px;
-    background-image:url('../Flower Asset/Rectangle 9.png');
+    background-image:url('./Flower Asset/Rectangle 9.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
