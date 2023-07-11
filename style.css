@@ -148,3 +148,102 @@ font-size: 24px;
 font-weight:100px;
 line-height: 35px;
 }
+.offer{
+    margin-top:100px;
+    height: 100vh;
+    padding: 30px 30px 0px 150px;
+    display:flex;
+    align-items: center;
+    justify-content:space-around ;
+    gap:30px;
+background: rgba(229, 84, 115, 0.05);
+
+}
+.offer-title{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+}
+.off{
+    color: #E55473;
+}
+.offer-description{
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.instagram{
+    margin-top:100px;
+
+}
+.instagram-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+
+}
+.instagram-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+
+}
+.photo-list{
+    display:flex;
+    align-items: center;
+justify-content:space-around ;
+gap:10px;
+list-style:none;
+}
+.insta-1{
+    width: 342px;
+   height: 396px;
+}
+.deals{
+    margin-top: 200px;
+    margin-left:100px;
+    display:flex;
+    width: 1300px;
+    height: 449px;
+    background-image:url('../Flower Asset/Rectangle 9.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+   
+}
+.deals-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+ 
+  
+}
+.deals-des{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+
+.form{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+background: #FFF; 
+}
